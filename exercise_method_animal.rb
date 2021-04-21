@@ -5,7 +5,7 @@ def cry(animal)
   when 'dog'
     'bowwow'
   else
-    puts '???'
+    '???'
   end
 end
 
